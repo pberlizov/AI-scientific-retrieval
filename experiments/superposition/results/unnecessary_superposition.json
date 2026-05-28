@@ -1,0 +1,67 @@
+{
+  "consistency": {
+    "test": "consistency",
+    "n_features": 10,
+    "n_hidden": 20,
+    "sparsity": 5.0,
+    "poly_mean": 1.0,
+    "poly_std": 0.0,
+    "elhage_feat_mean": 0.9030815124511719,
+    "elhage_neur_mean": 0.8110302060842514
+  },
+  "init": [
+    {
+      "init": "kaiming",
+      "poly_mean": 1.0,
+      "poly_std": 0.0,
+      "recon_mean": 1.7947730043488264e-06
+    },
+    {
+      "init": "orthogonal_cols",
+      "poly_mean": 1.0,
+      "poly_std": 0.0,
+      "recon_mean": 5.556108277460226e-07
+    },
+    {
+      "init": "monosemantic",
+      "poly_mean": 0.0,
+      "poly_std": 0.0,
+      "recon_mean": 0.0
+    }
+  ],
+  "steps": [
+    {
+      "steps": 1000,
+      "poly": 1.0,
+      "elhage_feat": 0.9130943417549133,
+      "recon": 0.0002227620134362951
+    },
+    {
+      "steps": 5000,
+      "poly": 1.0,
+      "elhage_feat": 0.9035989046096802,
+      "recon": 4.314988473197445e-06
+    },
+    {
+      "steps": 20000,
+      "poly": 1.0,
+      "elhage_feat": 0.893456757068634,
+      "recon": 1.3090271977489465e-07
+    },
+    {
+      "steps": 50000,
+      "poly": 1.0,
+      "elhage_feat": 0.8894378542900085,
+      "recon": 1.8525522449408527e-08
+    }
+  ],
+  "landscape": {
+    "test": "landscape",
+    "poly_before": 0.0,
+    "poly_after": 0.0,
+    "elhage_feat_before": 0.0,
+    "elhage_feat_after": 0.0,
+    "recon": 0.0,
+    "stayed_monosemantic": true
+  }
+}

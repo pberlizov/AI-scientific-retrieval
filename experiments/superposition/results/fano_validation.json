@@ -1,0 +1,702 @@
+[
+  {
+    "sparsity": 1.0,
+    "k": 10,
+    "condition": "baseline",
+    "probe_acc": 0.0,
+    "emp_pe": 1.0,
+    "fano_pe_mean": 0.0,
+    "fano_pe_std": 0.0,
+    "ratio": 0.0
+  },
+  {
+    "sparsity": 1.0,
+    "k": 20,
+    "condition": "baseline",
+    "probe_acc": 0.0,
+    "emp_pe": 1.0,
+    "fano_pe_mean": 0.0,
+    "fano_pe_std": 0.0,
+    "ratio": 0.0
+  },
+  {
+    "sparsity": 1.0,
+    "k": 40,
+    "condition": "baseline",
+    "probe_acc": 0.0,
+    "emp_pe": 1.0,
+    "fano_pe_mean": 0.0,
+    "fano_pe_std": 0.0,
+    "ratio": 0.0
+  },
+  {
+    "sparsity": 1.0,
+    "k": 60,
+    "condition": "baseline",
+    "probe_acc": 0.0,
+    "emp_pe": 1.0,
+    "fano_pe_mean": 0.0,
+    "fano_pe_std": 0.0,
+    "ratio": 0.0
+  },
+  {
+    "sparsity": 1.0,
+    "k": 80,
+    "condition": "baseline",
+    "probe_acc": 0.0,
+    "emp_pe": 1.0,
+    "fano_pe_mean": 0.0,
+    "fano_pe_std": 0.0,
+    "ratio": 0.0
+  },
+  {
+    "sparsity": 1.0,
+    "k": 120,
+    "condition": "baseline",
+    "probe_acc": 0.0,
+    "emp_pe": 1.0,
+    "fano_pe_mean": 0.0,
+    "fano_pe_std": 0.0,
+    "ratio": 0.0
+  },
+  {
+    "sparsity": 1.0,
+    "k": 160,
+    "condition": "baseline",
+    "probe_acc": 0.0,
+    "emp_pe": 1.0,
+    "fano_pe_mean": 0.0,
+    "fano_pe_std": 0.0,
+    "ratio": 0.0
+  },
+  {
+    "sparsity": 1.0,
+    "k": 10,
+    "condition": "additivity",
+    "probe_acc": 0.0,
+    "emp_pe": 1.0,
+    "fano_pe_mean": 0.0,
+    "fano_pe_std": 0.0,
+    "ratio": 0.0
+  },
+  {
+    "sparsity": 1.0,
+    "k": 20,
+    "condition": "additivity",
+    "probe_acc": 0.0,
+    "emp_pe": 1.0,
+    "fano_pe_mean": 0.0,
+    "fano_pe_std": 0.0,
+    "ratio": 0.0
+  },
+  {
+    "sparsity": 1.0,
+    "k": 40,
+    "condition": "additivity",
+    "probe_acc": 0.0,
+    "emp_pe": 1.0,
+    "fano_pe_mean": 0.0,
+    "fano_pe_std": 0.0,
+    "ratio": 0.0
+  },
+  {
+    "sparsity": 1.0,
+    "k": 60,
+    "condition": "additivity",
+    "probe_acc": 0.0,
+    "emp_pe": 1.0,
+    "fano_pe_mean": 0.0,
+    "fano_pe_std": 0.0,
+    "ratio": 0.0
+  },
+  {
+    "sparsity": 1.0,
+    "k": 80,
+    "condition": "additivity",
+    "probe_acc": 0.0,
+    "emp_pe": 1.0,
+    "fano_pe_mean": 0.0,
+    "fano_pe_std": 0.0,
+    "ratio": 0.0
+  },
+  {
+    "sparsity": 1.0,
+    "k": 120,
+    "condition": "additivity",
+    "probe_acc": 0.0,
+    "emp_pe": 1.0,
+    "fano_pe_mean": 0.0,
+    "fano_pe_std": 0.0,
+    "ratio": 0.0
+  },
+  {
+    "sparsity": 1.0,
+    "k": 160,
+    "condition": "additivity",
+    "probe_acc": 0.0,
+    "emp_pe": 1.0,
+    "fano_pe_mean": 0.0,
+    "fano_pe_std": 0.0,
+    "ratio": 0.0
+  },
+  {
+    "sparsity": 10.0,
+    "k": 10,
+    "condition": "baseline",
+    "probe_acc": 0.9706999999999999,
+    "emp_pe": 0.029300000000000104,
+    "fano_pe_mean": 0.0,
+    "fano_pe_std": 0.0,
+    "ratio": 0.0
+  },
+  {
+    "sparsity": 10.0,
+    "k": 20,
+    "condition": "baseline",
+    "probe_acc": 0.9703916666666665,
+    "emp_pe": 0.02960833333333346,
+    "fano_pe_mean": 0.0,
+    "fano_pe_std": 0.0,
+    "ratio": 0.0
+  },
+  {
+    "sparsity": 10.0,
+    "k": 40,
+    "condition": "baseline",
+    "probe_acc": 0.9420166666666666,
+    "emp_pe": 0.05798333333333339,
+    "fano_pe_mean": 0.0033430687316415874,
+    "fano_pe_std": 0.004984666636842849,
+    "ratio": 0.05765568378801238
+  },
+  {
+    "sparsity": 10.0,
+    "k": 60,
+    "condition": "baseline",
+    "probe_acc": 0.9261194444444444,
+    "emp_pe": 0.07388055555555562,
+    "fano_pe_mean": 0.028505591397927604,
+    "fano_pe_std": 0.008630588362704803,
+    "ratio": 0.3858334738223833
+  },
+  {
+    "sparsity": 10.0,
+    "k": 80,
+    "condition": "baseline",
+    "probe_acc": 0.9162125,
+    "emp_pe": 0.08378750000000001,
+    "fano_pe_mean": 0.045497909300600846,
+    "fano_pe_std": 0.005327604779273816,
+    "ratio": 0.543015477256164
+  },
+  {
+    "sparsity": 10.0,
+    "k": 120,
+    "condition": "baseline",
+    "probe_acc": 0.9069222222222222,
+    "emp_pe": 0.09307777777777781,
+    "fano_pe_mean": 0.06311057342360708,
+    "fano_pe_std": 0.0024830550502360914,
+    "ratio": 0.6780412567893799
+  },
+  {
+    "sparsity": 10.0,
+    "k": 160,
+    "condition": "baseline",
+    "probe_acc": 0.903790625,
+    "emp_pe": 0.09620937500000004,
+    "fano_pe_mean": 0.07232129848327477,
+    "fano_pe_std": 0.001921951033537592,
+    "ratio": 0.7517073932064806
+  },
+  {
+    "sparsity": 10.0,
+    "k": 10,
+    "condition": "additivity",
+    "probe_acc": 0.9692333333333334,
+    "emp_pe": 0.03076666666666661,
+    "fano_pe_mean": 0.0,
+    "fano_pe_std": 0.0,
+    "ratio": 0.0
+  },
+  {
+    "sparsity": 10.0,
+    "k": 20,
+    "condition": "additivity",
+    "probe_acc": 0.9713666666666668,
+    "emp_pe": 0.028633333333333177,
+    "fano_pe_mean": 0.0,
+    "fano_pe_std": 0.0,
+    "ratio": 0.0
+  },
+  {
+    "sparsity": 10.0,
+    "k": 40,
+    "condition": "additivity",
+    "probe_acc": 0.9231083333333334,
+    "emp_pe": 0.07689166666666658,
+    "fano_pe_mean": 0.009877444111083896,
+    "fano_pe_std": 0.01460990583130578,
+    "ratio": 0.12845922762870585
+  },
+  {
+    "sparsity": 10.0,
+    "k": 60,
+    "condition": "additivity",
+    "probe_acc": 0.9093194444444445,
+    "emp_pe": 0.09068055555555554,
+    "fano_pe_mean": 0.03077748999220162,
+    "fano_pe_std": 0.016412732202781877,
+    "ratio": 0.33940561792594837
+  },
+  {
+    "sparsity": 10.0,
+    "k": 80,
+    "condition": "additivity",
+    "probe_acc": 0.9055916666666666,
+    "emp_pe": 0.09440833333333343,
+    "fano_pe_mean": 0.05544418398485118,
+    "fano_pe_std": 0.015578641591010182,
+    "ratio": 0.5872806141920853
+  },
+  {
+    "sparsity": 10.0,
+    "k": 120,
+    "condition": "additivity",
+    "probe_acc": 0.9012138888888889,
+    "emp_pe": 0.09878611111111113,
+    "fano_pe_mean": 0.07872260294410749,
+    "fano_pe_std": 0.009349379864814348,
+    "ratio": 0.7968995039754433
+  },
+  {
+    "sparsity": 10.0,
+    "k": 160,
+    "condition": "additivity",
+    "probe_acc": 0.9000208333333334,
+    "emp_pe": 0.09997916666666662,
+    "fano_pe_mean": 0.08963522538327222,
+    "fano_pe_std": 0.003963046829340898,
+    "ratio": 0.8965390327978888
+  },
+  {
+    "sparsity": 2.0,
+    "k": 10,
+    "condition": "baseline",
+    "probe_acc": 0.9370833333333333,
+    "emp_pe": 0.06291666666666673,
+    "fano_pe_mean": 0.0,
+    "fano_pe_std": 0.0,
+    "ratio": 0.0
+  },
+  {
+    "sparsity": 2.0,
+    "k": 20,
+    "condition": "baseline",
+    "probe_acc": 0.9381416666666665,
+    "emp_pe": 0.06185833333333346,
+    "fano_pe_mean": 0.0,
+    "fano_pe_std": 0.0,
+    "ratio": 0.0
+  },
+  {
+    "sparsity": 2.0,
+    "k": 40,
+    "condition": "baseline",
+    "probe_acc": 0.7461333333333333,
+    "emp_pe": 0.2538666666666667,
+    "fano_pe_mean": 0.11536668212219259,
+    "fano_pe_std": 0.03147380512779998,
+    "ratio": 0.4544380860905695
+  },
+  {
+    "sparsity": 2.0,
+    "k": 60,
+    "condition": "baseline",
+    "probe_acc": 0.6928472222222223,
+    "emp_pe": 0.3071527777777777,
+    "fano_pe_mean": 0.19619236991789346,
+    "fano_pe_std": 0.01755845890322762,
+    "ratio": 0.6387452242409375
+  },
+  {
+    "sparsity": 2.0,
+    "k": 80,
+    "condition": "baseline",
+    "probe_acc": 0.6666854166666667,
+    "emp_pe": 0.3333145833333333,
+    "fano_pe_mean": 0.2409984132150531,
+    "fano_pe_std": 0.011714296094607534,
+    "ratio": 0.7230359104151203
+  },
+  {
+    "sparsity": 2.0,
+    "k": 120,
+    "condition": "baseline",
+    "probe_acc": 0.6358097222222222,
+    "emp_pe": 0.3641902777777778,
+    "fano_pe_mean": 0.2911177709550992,
+    "fano_pe_std": 0.00626145201646626,
+    "ratio": 0.7993562396323328
+  },
+  {
+    "sparsity": 2.0,
+    "k": 160,
+    "condition": "baseline",
+    "probe_acc": 0.6187354166666666,
+    "emp_pe": 0.38126458333333335,
+    "fano_pe_mean": 0.32055723028206856,
+    "fano_pe_std": 0.005134408245216266,
+    "ratio": 0.8407736891779708
+  },
+  {
+    "sparsity": 2.0,
+    "k": 10,
+    "condition": "additivity",
+    "probe_acc": 0.9371499999999999,
+    "emp_pe": 0.06285000000000007,
+    "fano_pe_mean": 0.0,
+    "fano_pe_std": 0.0,
+    "ratio": 0.0
+  },
+  {
+    "sparsity": 2.0,
+    "k": 20,
+    "condition": "additivity",
+    "probe_acc": 0.9303416666666667,
+    "emp_pe": 0.06965833333333327,
+    "fano_pe_mean": 0.0032843668177662566,
+    "fano_pe_std": 0.00986346196655964,
+    "ratio": 0.047149661219278764
+  },
+  {
+    "sparsity": 2.0,
+    "k": 40,
+    "condition": "additivity",
+    "probe_acc": 0.7405583333333334,
+    "emp_pe": 0.25944166666666657,
+    "fano_pe_mean": 0.14270113737564324,
+    "fano_pe_std": 0.08062516473053151,
+    "ratio": 0.5500316861554362
+  },
+  {
+    "sparsity": 2.0,
+    "k": 60,
+    "condition": "additivity",
+    "probe_acc": 0.6825805555555555,
+    "emp_pe": 0.3174194444444445,
+    "fano_pe_mean": 0.22417627838376242,
+    "fano_pe_std": 0.07420128540600879,
+    "ratio": 0.7062462061078879
+  },
+  {
+    "sparsity": 2.0,
+    "k": 80,
+    "condition": "additivity",
+    "probe_acc": 0.6504833333333333,
+    "emp_pe": 0.3495166666666667,
+    "fano_pe_mean": 0.27106855517462375,
+    "fano_pe_std": 0.056300723781290495,
+    "ratio": 0.7755525874053418
+  },
+  {
+    "sparsity": 2.0,
+    "k": 120,
+    "condition": "additivity",
+    "probe_acc": 0.6150875,
+    "emp_pe": 0.3849125,
+    "fano_pe_mean": 0.32824787476074335,
+    "fano_pe_std": 0.029101465468668833,
+    "ratio": 0.8527856974266707
+  },
+  {
+    "sparsity": 2.0,
+    "k": 160,
+    "condition": "additivity",
+    "probe_acc": 0.5956833333333333,
+    "emp_pe": 0.40431666666666666,
+    "fano_pe_mean": 0.3565902717889559,
+    "fano_pe_std": 0.024376250340850544,
+    "ratio": 0.8819578839744984
+  },
+  {
+    "sparsity": 20.0,
+    "k": 10,
+    "condition": "baseline",
+    "probe_acc": 0.9804166666666667,
+    "emp_pe": 0.019583333333333286,
+    "fano_pe_mean": 0.0,
+    "fano_pe_std": 0.0,
+    "ratio": 0.0
+  },
+  {
+    "sparsity": 20.0,
+    "k": 20,
+    "condition": "baseline",
+    "probe_acc": 0.9801916666666667,
+    "emp_pe": 0.019808333333333317,
+    "fano_pe_mean": 0.0,
+    "fano_pe_std": 0.0,
+    "ratio": 0.0
+  },
+  {
+    "sparsity": 20.0,
+    "k": 40,
+    "condition": "baseline",
+    "probe_acc": 0.9694500000000001,
+    "emp_pe": 0.030549999999999855,
+    "fano_pe_mean": 0.0,
+    "fano_pe_std": 0.0,
+    "ratio": 0.0
+  },
+  {
+    "sparsity": 20.0,
+    "k": 60,
+    "condition": "baseline",
+    "probe_acc": 0.9620388888888889,
+    "emp_pe": 0.03796111111111111,
+    "fano_pe_mean": 0.0017886131777672214,
+    "fano_pe_std": 0.0020861937381936252,
+    "ratio": 0.0471169869746963
+  },
+  {
+    "sparsity": 20.0,
+    "k": 80,
+    "condition": "baseline",
+    "probe_acc": 0.9569333333333333,
+    "emp_pe": 0.0430666666666667,
+    "fano_pe_mean": 0.010584583162177266,
+    "fano_pe_std": 0.0032980002755608174,
+    "ratio": 0.24577205484931716
+  },
+  {
+    "sparsity": 20.0,
+    "k": 120,
+    "condition": "baseline",
+    "probe_acc": 0.9527083333333333,
+    "emp_pe": 0.04729166666666673,
+    "fano_pe_mean": 0.022937324286226902,
+    "fano_pe_std": 0.001939407630975139,
+    "ratio": 0.4850183108981893
+  },
+  {
+    "sparsity": 20.0,
+    "k": 160,
+    "condition": "baseline",
+    "probe_acc": 0.9513093750000001,
+    "emp_pe": 0.048690624999999876,
+    "fano_pe_mean": 0.029518579371084302,
+    "fano_pe_std": 0.001322282868135268,
+    "ratio": 0.6062476990403055
+  },
+  {
+    "sparsity": 20.0,
+    "k": 10,
+    "condition": "additivity",
+    "probe_acc": 0.9800333333333334,
+    "emp_pe": 0.019966666666666577,
+    "fano_pe_mean": 0.0,
+    "fano_pe_std": 0.0,
+    "ratio": 0.0
+  },
+  {
+    "sparsity": 20.0,
+    "k": 20,
+    "condition": "additivity",
+    "probe_acc": 0.9801916666666667,
+    "emp_pe": 0.019808333333333317,
+    "fano_pe_mean": 0.0,
+    "fano_pe_std": 0.0,
+    "ratio": 0.0
+  },
+  {
+    "sparsity": 20.0,
+    "k": 40,
+    "condition": "additivity",
+    "probe_acc": 0.9588708333333332,
+    "emp_pe": 0.04112916666666677,
+    "fano_pe_mean": 0.003495097674603567,
+    "fano_pe_std": 0.005758051259447947,
+    "ratio": 0.08497856771399594
+  },
+  {
+    "sparsity": 20.0,
+    "k": 60,
+    "condition": "additivity",
+    "probe_acc": 0.9524333333333334,
+    "emp_pe": 0.047566666666666646,
+    "fano_pe_mean": 0.018404223240052732,
+    "fano_pe_std": 0.0082201885013836,
+    "ratio": 0.3869142937642482
+  },
+  {
+    "sparsity": 20.0,
+    "k": 80,
+    "condition": "additivity",
+    "probe_acc": 0.9500104166666666,
+    "emp_pe": 0.049989583333333365,
+    "fano_pe_mean": 0.029968478091784212,
+    "fano_pe_std": 0.006204216234090753,
+    "ratio": 0.5994944565141243
+  },
+  {
+    "sparsity": 20.0,
+    "k": 120,
+    "condition": "additivity",
+    "probe_acc": 0.9501680555555557,
+    "emp_pe": 0.049831944444444276,
+    "fano_pe_mean": 0.03809041105839247,
+    "fano_pe_std": 0.0034227746226629884,
+    "ratio": 0.7643773784677017
+  },
+  {
+    "sparsity": 20.0,
+    "k": 160,
+    "condition": "additivity",
+    "probe_acc": 0.9498718749999999,
+    "emp_pe": 0.05012812500000008,
+    "fano_pe_mean": 0.04370062094203927,
+    "fano_pe_std": 0.002344916761580638,
+    "ratio": 0.8717784864692066
+  },
+  {
+    "sparsity": 5.0,
+    "k": 10,
+    "condition": "baseline",
+    "probe_acc": 0.9561833333333333,
+    "emp_pe": 0.043816666666666726,
+    "fano_pe_mean": 0.0,
+    "fano_pe_std": 0.0,
+    "ratio": 0.0
+  },
+  {
+    "sparsity": 5.0,
+    "k": 20,
+    "condition": "baseline",
+    "probe_acc": 0.9570833333333334,
+    "emp_pe": 0.0429166666666666,
+    "fano_pe_mean": 0.0,
+    "fano_pe_std": 0.0,
+    "ratio": 0.0
+  },
+  {
+    "sparsity": 5.0,
+    "k": 40,
+    "condition": "baseline",
+    "probe_acc": 0.8832416666666667,
+    "emp_pe": 0.1167583333333333,
+    "fano_pe_mean": 0.03995384638842367,
+    "fano_pe_std": 0.02082925805698507,
+    "ratio": 0.3421926747991465
+  },
+  {
+    "sparsity": 5.0,
+    "k": 60,
+    "condition": "baseline",
+    "probe_acc": 0.8490249999999998,
+    "emp_pe": 0.1509750000000002,
+    "fano_pe_mean": 0.0908454975448036,
+    "fano_pe_std": 0.014041355995677482,
+    "ratio": 0.601725434971376
+  },
+  {
+    "sparsity": 5.0,
+    "k": 80,
+    "condition": "baseline",
+    "probe_acc": 0.8313916666666666,
+    "emp_pe": 0.16860833333333336,
+    "fano_pe_mean": 0.11660347815095769,
+    "fano_pe_std": 0.007461871592356706,
+    "ratio": 0.6915641465978807
+  },
+  {
+    "sparsity": 5.0,
+    "k": 120,
+    "condition": "baseline",
+    "probe_acc": 0.8155444444444444,
+    "emp_pe": 0.1844555555555556,
+    "fano_pe_mean": 0.14314122777260943,
+    "fano_pe_std": 0.0034829024154681212,
+    "ratio": 0.7760201493605714
+  },
+  {
+    "sparsity": 5.0,
+    "k": 160,
+    "condition": "baseline",
+    "probe_acc": 0.8091166666666666,
+    "emp_pe": 0.1908833333333334,
+    "fano_pe_mean": 0.15696508122919897,
+    "fano_pe_std": 0.002458818543274023,
+    "ratio": 0.8223089909850637
+  },
+  {
+    "sparsity": 5.0,
+    "k": 10,
+    "condition": "additivity",
+    "probe_acc": 0.9576333333333334,
+    "emp_pe": 0.04236666666666655,
+    "fano_pe_mean": 0.0,
+    "fano_pe_std": 0.0,
+    "ratio": 0.0
+  },
+  {
+    "sparsity": 5.0,
+    "k": 20,
+    "condition": "additivity",
+    "probe_acc": 0.95725,
+    "emp_pe": 0.042749999999999955,
+    "fano_pe_mean": 0.0,
+    "fano_pe_std": 0.0,
+    "ratio": 0.0
+  },
+  {
+    "sparsity": 5.0,
+    "k": 40,
+    "condition": "additivity",
+    "probe_acc": 0.8514291666666667,
+    "emp_pe": 0.14857083333333332,
+    "fano_pe_mean": 0.050834005898599065,
+    "fano_pe_std": 0.02958017266599931,
+    "ratio": 0.34215333358565714
+  },
+  {
+    "sparsity": 5.0,
+    "k": 60,
+    "condition": "additivity",
+    "probe_acc": 0.8275527777777777,
+    "emp_pe": 0.1724472222222223,
+    "fano_pe_mean": 0.09815975837275474,
+    "fano_pe_std": 0.029257931483744504,
+    "ratio": 0.5692162338588568
+  },
+  {
+    "sparsity": 5.0,
+    "k": 80,
+    "condition": "additivity",
+    "probe_acc": 0.8183979166666666,
+    "emp_pe": 0.1816020833333334,
+    "fano_pe_mean": 0.11930669035466368,
+    "fano_pe_std": 0.024597163326861793,
+    "ratio": 0.6569676303529758
+  },
+  {
+    "sparsity": 5.0,
+    "k": 120,
+    "condition": "additivity",
+    "probe_acc": 0.8091236111111111,
+    "emp_pe": 0.19087638888888891,
+    "fano_pe_mean": 0.1567729172237973,
+    "fano_pe_std": 0.018202795086609092,
+    "ratio": 0.8213321623297075
+  },
+  {
+    "sparsity": 5.0,
+    "k": 160,
+    "condition": "additivity",
+    "probe_acc": 0.8043625000000002,
+    "emp_pe": 0.1956374999999998,
+    "fano_pe_mean": 0.17570274821261836,
+    "fano_pe_std": 0.012055693629291377,
+    "ratio": 0.8981036264142536
+  }
+]
