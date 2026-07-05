@@ -2,8 +2,8 @@
 
 This project systematically retrieves techniques and results from historical scientific
 literature and connects them to open problems in modern machine learning. The core hypothesis
-is that formal methods developed before disciplinary boundaries hardened — in control theory,
-information theory, operations research, measure theory, and elsewhere — contain ideas that
+is that formal methods developed before disciplinary boundaries hardened - in control theory,
+information theory, operations research, measure theory, and elsewhere - contain ideas that
 the ML field has not yet applied, either because the original sources are obscure or because
 the connection requires crossing between fields.
 
@@ -65,7 +65,7 @@ Fifteen validated analogies are currently logged in `data/promising_analogies.md
 roughly ten distinct historical sources. The most industry-applicable cluster centers on
 real-time anomaly detection: three independent historical techniques (Wiener-Hopf recursions,
 elimination-form covariance updates, and generalized-gradient constraint enforcement) converge
-on the same gap in the modern literature — that ML-based detectors have no statistical
+on the same gap in the modern literature - that ML-based detectors have no statistical
 guarantees on false-alarm rate or detection delay. The most theoretically novel cluster
 addresses causal structure learning via rank-preserving submatrix aggregation and
 Marchenko-Pastur-calibrated skeleton screening.
